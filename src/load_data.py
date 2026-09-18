@@ -6,5 +6,3 @@ def load_student_data(file_path):
 
     marks = data[:, 1]
     return marks
-
-
